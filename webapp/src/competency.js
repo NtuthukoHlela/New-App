@@ -10,14 +10,14 @@ export default function competencyPage () {
     return (
 
 <>
-<h1 style= {generalStyle}> Becoming competent</h1>
+<h1 style= {generalStyle}> <b> Becoming competent </b> </h1>
 
 <div style={{textAlign: "justify", paddingRight:200, paddingLeft: 200}}>
 
  <p>  This article aims to outline concrete ways of approaching the road to competency. 
 I have always been curious, knowing more excites me, I see competency as the ultimate success. Knowing how to do something thoroughly and expertly is not only a positive locally (people pay you), but it is also beneficial at a societal level (you solve real problems). This raises the question of, how one becomes competent. Below, I list routines/techniques/practices that make learning/working easier/faster, at least for me.   
 </p>
-1) Think from the first principles
+1) <b>Think from the first principles </b>
 <p>
 
 First principles thinking refers to a philosophy where one tries to find the most fundamental axiom from which to 
@@ -27,7 +27,7 @@ work/build/learn. The goal is to find the most definitive truth about the situat
  </p>
 
 
-2) Allocate enough time to working/learning
+<b> 2) Allocate enough time to working/learning </b>
 <p>
 
 
@@ -37,13 +37,13 @@ Scheduling work is one – big – part of learning, the second part is actually
 </p>
 
 
-3) Avoid context switching (and multitasking)
+<b> 3) Avoid context switching (and multitasking) </b>
 
 <p>
 Context switching and multitasking often make one feel like he/she is being extremely productive – which, as most people can attest, is often not true. The most efficient way of working/studying/learning, I have found, is to focus on one project for maybe 3-4 consecutive days. This allows me to get into a mental state in which I am thinking about the problem all the time, when I am eating, showering, commuting et cetera. This is the state where most of my great ideas come from. Approaching learning/working this way makes one efficient, you don’t have to pay the fixed cost of “jogging your memory” every time you are about to work on the project – which is the cost you certainly have to pay when you multitask or context switch regularly. In other words, since you are thinking about the project all the time, you can just get to work without having to relearn or refamiliarize yourself with the task every time you do it. For example, it is better to create one application at a time than to create two. It is more efficient and effective to read one book at a time than to read multiple books. 
 </p>
 
-4) Do what matters first 
+<b> 4) Do what matters first  </b>
 
 <p>
 When I am studying or working, I have always found doing what is necessary first rewarding. This is mainly because most of the time what is necessary is enough. Of course, “just enough” is not enough to excel in any given task. However, you first have to do what is “just enough” to excel. Accomplishing “just enough” first gives you the freedom to be as creative as possible. This is simply because completing the necessary parts of the tasks as fast as possible leaves you with ample time to figure out other things – which helps you to become relatively more competent.  
